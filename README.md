@@ -12,17 +12,19 @@ https://user-images.githubusercontent.com/72145248/212554167-4ac58693-a447-4203-
 
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
-# Clone this repository
+```bash
+  # Clone this repository
 $ git clone https://github.com/AyushSarode/Random-Jokes.git
 
 # Go into the repository
-$ cd AyushSarode/Random-Jokes
+$ cd AyushSarode/Random
 
 # Install dependencies
 $ npm install
 
 # Run the app
 $ npm start
+```
 
 # Disclaimer
 
