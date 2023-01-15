@@ -1,8 +1,17 @@
 # Random-Jokes
 
-# Demo 
+# Despriction 
 
+The Random Jokes Generator is a fun and simple Web App that generates random jokes for your entertainment. The tool is built using HTML, CSS, Javascript. It allows you to generate a single random joke per click. The jokes are sourced from a public API and may contain explicit content. This tool is intended for entertainment purposes only and is not intended to offend anyone. Users are welcomed to contribute to this project by submitting pull requests or reporting any offensive content. The project is licensed under the MIT license.
+
+# Demo 
 
 https://user-images.githubusercontent.com/72145248/212554167-4ac58693-a447-4203-b4d7-7bb5c695e1b0.mp4
 
+# Disclaimer
 
+ The jokes are sourced from a public API and may contain explicit content. This tool is intended for entertainment purposes only and is not intended to offend anyone.
+ 
+ ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
