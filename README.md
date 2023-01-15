@@ -1,6 +1,6 @@
 # Random-Jokes
 
-# Despriction 
+# Description
 
 The Random Jokes Generator is a fun and simple Web App that generates random jokes for your entertainment. The tool is built using HTML, CSS, Javascript. It allows you to generate a single random joke per click. The jokes are sourced from a public API and may contain explicit content.
 
